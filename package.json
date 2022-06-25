@@ -1,0 +1,23 @@
+{
+  "name": "auto-wallpaper",
+  "version": "1.0.0",
+  "description": "auto load wallpaper with google images",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ljmdzst/auto-wallpaper.git"
+  },
+  "keywords": [
+    "auto",
+    "wallpaper"
+  ],
+  "author": "LJMDZST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljmdzst/auto-wallpaper/issues"
+  },
+  "homepage": "https://github.com/ljmdzst/auto-wallpaper#readme"
+}
